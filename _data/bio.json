@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Kayla Hoang",
+    "label": "Shidler Undergraduate",
+    "picture": "https://techfolios.github.io/images/IMG_3542.png",
+    "email": "hoangk@hawaii.edu",
+    "phone": "",
+    "website": "https://hoangkayla.github.io",
+    "summary": "I am studying for a B.B.A. in MIS, FIN, and IB at the University of Hawaii. I expect to graduate in Spring, 2021.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,76 +17,71 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "hoangkayla",
+        "url": "http://github.com/hoangkayla"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Kayla Hoang",
+        "url": "https://www.linkedin.com/in/kayla-hoang-a1bab1190/"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "network": "",
+        "username": "",
+        "url": ""
       },
       {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Data Analytics",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "",
+        ""
       ]
     },
     {
-      "name": "data mining",
+      "name": "Consumer Behavior",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Game Theory",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "MS Office",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Word",
+        "Excel",
+        "Powerpoint",
+        "Access",
+        "",
+        ""
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Management Information Systems, Finance, International Business (expected Spring, 2021)",
+      "studyType": "B.B.A.",
+      "startDate": "2017-8",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -95,69 +90,66 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa STAR Technologies",
+      "position": "Administrative Assistant",
       "website": "",
       "startDate": "2015-08-01",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Answer phone, emails, and texts to STAR Help",
+        "Testing and designing software for students"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
+      "company": "Hawaii Station",
+      "position": "Manager",
+      "website": "",
       "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Assisting customers, training employees",
+        "Assisting in wholesale purchases"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Friends of the Family",
+      "website": "https://fofatuhm.wixsite.com/home",
+      "position": "Community Chair",
+      "startDate": "Fall 2018",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Organizing easy ways for college students to volunteer with outside organizations to improve Hawaii",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Salvation Army",
+        "Make-a-Wish"
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
@@ -167,3 +159,4 @@
     }
   ]
 }
+
